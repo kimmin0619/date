@@ -1,7 +1,7 @@
 .classpath
 .project
 .settings/
-#.gitignore
+.gitignore
 .springBeans
 
 log/
