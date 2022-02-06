@@ -8,7 +8,7 @@
 <title>매칭 후기</title>
 <script type="text/javascript">
 	function ReviewInsertFalse() {
-		alert('로그인 후 이용하세요!');
+		alert('로그인 후 이용하세요.');
 		location.href='loginForm';
 	}
 </script>
