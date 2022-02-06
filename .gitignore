@@ -1,0 +1,9 @@
+.classpath
+.project
+.settings/
+#.gitignore
+.springBeans
+
+log/
+target/
+test/
