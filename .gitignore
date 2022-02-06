@@ -2,6 +2,7 @@
 .project
 .settings/
 .springBeans
+.gitignore
 
 log/
 target/
